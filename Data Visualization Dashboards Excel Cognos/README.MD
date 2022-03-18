@@ -18,7 +18,7 @@ This course covers some of the first steps in the development of data visualizat
 <img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_2.PNG" width=100% height=100%>
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Advanced.PNG" width=100% height=100%>
+<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Advanced.png" width=100% height=100%>
 
 <p align="center">
 <img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_1.PNG" width=100% height=100%>
