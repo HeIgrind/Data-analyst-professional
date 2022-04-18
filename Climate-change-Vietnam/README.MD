@@ -11,7 +11,7 @@ Conduct a Report and Analysis on climate data at (Dalat - Baoloc - Lienkhuong - 
 <p align="center">
 <img src="/Climate-change-Vietnam/Photo/AVG_Temp(Season).PNG" width=80% height=80%>
 <p align="center">
-<img src="/Climate-change-Vietnam/Photo/AVG_Rain(month).png" width=80% height=80%>
+<img src="/Climate-change-Vietnam/Photo/Avg_Rain(month).png" width=80% height=80%>
 <p align="center">
 <img src="/Climate-change-Vietnam/Photo/AVG_Temp(month).png" width=80% height=80%>
   
