@@ -1,6 +1,5 @@
 # Climate_Reporting
-(This is a sample for Climate data analyst)
-Conduct a Report and Analysis on climate data at (Dalat - Baoloc - Lienkhuong - Cattien) since 1984 - 2017
+(This is a sample for Climate data analyst) Conduct a Report and Analysis on climate data at (Dalat - Bao Loc - Lien Khuong - Cat Tien) since 1984 - 2017
 ### Analysis of average temperature and rainfall over the years.
 <p align="center">
 <img src="/Climate-change-Vietnam/Photo/AVG_Rain(1984-2017).PNG" width=80% height=80%>  
