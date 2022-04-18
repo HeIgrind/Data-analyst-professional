@@ -19,3 +19,7 @@ run in terminal: panel serve rain_term_dashboard.ipynb
 ### Correlation between temperature and average rainfall
 <p align="center">
 <img src="/Climate-change-Vietnam/Photo/Rain_Temp.png" width=80% height=80%>
+### Dashboard
+  
+<p align="center">
+<img src="/Climate-change-Vietnam/Photo/dashboard.png" width=80% height=80%>
