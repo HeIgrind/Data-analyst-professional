@@ -5,6 +5,7 @@ run in terminal: panel serve rain_term_dashboard.ipynb
 ### Analysis of average temperature and rainfall over the years.
 <p align="center">
 <img src="/Climate-change-Vietnam/Photo/AVG_Rain(1984-2017).PNG" width=80% height=80%>  
+Nhìn vào biểu đồ, ta thấy chỉ số lượng mưa cao nhất rơi vào năm 2000 (nhất là Bảo Lộc). Nếu bạn tự hỏi tại sao, thì đó là vì năm 2000 có siêu bão Wukong dẫn đến chỉ số có sự đột biến như vậy.
 <p align="center">
 <img src="/Climate-change-Vietnam/Photo/AVG_Temp(1984-2017).png" width=80% height=80%>
 <p align="center">
